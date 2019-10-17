@@ -1,2 +1,3 @@
 # hello-world
-repository 
+repository
+Lovell is a great student.
